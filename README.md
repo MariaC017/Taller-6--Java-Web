@@ -2,7 +2,9 @@
 
 
 
-*[Descripción del proyecto] (#Taller 6 Java Web, consiste en realizar una conexion a traves de una interfaz
+*[Descripción del proyecto] (#Taller 6 Java Web, consiste en realizar una conexion a traves de una interfaz)
+
+
 -Interfaz:
 ![metodo1](https://github.com/MariaC017/Taller-6--Java-Web/assets/128435496/617d0525-b841-44bb-b4b0-776382956882)
 -Consulta base de datos
